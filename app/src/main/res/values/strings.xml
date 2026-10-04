@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Conversa</string>
+
+    <string name="accessibility_service_name">
+        Conversa UI Monitor
+    </string>
+
+    <string name="accessibility_service_description">
+        Conversa V1 directly monitors Android UI structure and accessibility events. It does not perform user actions.
+    </string>
+
+    <string name="hello_conversa">
+        Conversa V1 - Direct UI Monitor
+    </string>
+
+</resources>
